@@ -1,18 +1,7 @@
-# Spacial Network
-A spacial network implementation for relative positioning of objects in 3D space
+# Coucou Social
 
-# Metadata
-The following metadata is used to represent object in a Spacial Relationship Graph
+Publish and share notes, events and updates with other users.
 
-# Transforms
-* Translation (x,y,z)
-* Rotation
-* Scale
+## Overview
 
-# Geometry
-* Size
-* Direction (vector)
-
-# Content
-* Summary
-* URI
+TBD
