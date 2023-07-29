@@ -22,3 +22,12 @@ at all (private). Publically shared collections will appear in a directory of di
 
 Users may subscribe to public or protected collections (via approval) in order to receive new and updated
 content.
+
+## Global Directory
+
+TBD.
+
+## Users
+
+TBD.
+
